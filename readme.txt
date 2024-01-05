@@ -1,0 +1,64 @@
+
+
+### JS REFRESHER ####
+
+
+1. Clone this repository using `git clone`
+
+2. Create a new branch using `git checkout -b <your-first-name>`. For example, `git checkout -b joshua`
+
+3. Create a new file in the `js` folder called `<your-first-name>.js`. For example, `joshua.js`
+
+4. Open the file in your text editor and add the following code:
+
+```javascript exam``
+
+### DATA TYPES ###
+
+- Create a variable called `name` and assign it the value of your first name
+
+- Create a variable called `age` and assign it the value of your age
+
+- Create a variable called `isMarried` and assign it the value of `true` or `false` depending on whether or not you are married
+
+- Create a variable called `height` and assign it the value of your height in meters
+
+- What is the output of the following statement?
+
+1. var a = 10 + 20 + "30";
+
+
+
+### FUNCTIONS ###
+
+- Create a function called `helloWorld` that returns the string `"Hello World"`
+
+- Create a function called `add` that takes two arguments and returns their sum
+
+- Create a function called `multiply` that takes two arguments and returns their product
+
+- Create a function called `greet` that takes a single argument and returns the string `"Hello <argument>!"`. For example, `greet("Joshua")` should return `"Hello Joshua!"`
+
+
+
+### lOGICAL OPERATORS ###
+
+- Create a function called `and` that takes two arguments and returns `true` if both arguments are `true` and `false` otherwise
+
+- Create a function called `or` that takes two arguments and returns `true` if either argument is `true` and `false` otherwise
+
+- Create a function called `not` that takes a single argument and returns `true` if the argument is `false` and `false` otherwise
+
+
+
+5. Commit your changes using `git commit -am "Hello World"`
+
+6. Push your changes to the remote repository using `git push origin <your-first-name>`. For example, `git push origin joshua`
+
+7. Open a pull request on GitHub
+
+8. Wait for the pull request to be merged
+
+9. Pull the latest changes from the remote repository using `git pull origin master`
+
+10. Repeat steps 3-9 for the remaining exercises
