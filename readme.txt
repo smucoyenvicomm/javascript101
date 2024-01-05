@@ -3,7 +3,7 @@
 ### JS REFRESHER ####
 
 
-1. Clone this repository using `git clone`
+1. Clone this repository using `git clone https://github.com/kyllolive/js-test.git`
 
 2. Create a new branch using `git checkout -b <your-first-name>`. For example, `git checkout -b joshua`
 
@@ -11,7 +11,6 @@
 
 4. Open the file in your text editor and add the following code:
 
-```javascript exam``
 
 ### DATA TYPES ###
 
@@ -51,7 +50,7 @@
 
 
 
-5. Commit your changes using `git commit -am "Hello World"`
+5. Commit your changes using `git commit -m "<your-first-name>"`. For example, `git commit -m "joshua"`
 
 6. Push your changes to the remote repository using `git push origin <your-first-name>`. For example, `git push origin joshua`
 
