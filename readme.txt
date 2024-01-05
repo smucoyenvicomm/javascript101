@@ -22,9 +22,16 @@
 
 - Create a variable called `height` and assign it the value of your height in meters
 
-- What is the output of the following statement?
 
-1. var a = 10 + 20 + "30";
+### COERCION ###
+
+- Create a variable called `nameAndAge` and assign it the value of `name` and `age` concatenated together. For example, if `name` is `"Joshua"` and `age` is `25`, `nameAndAge` should be `"Joshua25"`
+
+### MATH OPERATORS ###
+
+- Create a variable called `sum` and assign it the value of `age` plus `current year`
+
+- Create a variable called `product` and assign it the value of `age` times `current year`
 
 
 
